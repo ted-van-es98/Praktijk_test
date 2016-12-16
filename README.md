@@ -1,2 +1,0 @@
-# Praktijk_test
-TEST
